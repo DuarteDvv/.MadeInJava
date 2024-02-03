@@ -1,0 +1,15 @@
+[submodule ".general.java"]
+	path = .general.java
+	url = https://github.com/DuarteDvv/.general.java
+[submodule ".bank"]
+	path = .bank
+	url = https://github.com/DuarteDvv/.bank
+[submodule ".terminalGroupChat"]
+	path = .terminalGroupChat
+	url = https://github.com/DuarteDvv/.terminalGroupChat
+[submodule ".thread-safe.Bounded.Buffer"]
+	path = .thread-safe.Bounded.Buffer
+	url = https://github.com/DuarteDvv/.thread-safe.Bounded.Buffer
+[submodule ".chess"]
+	path = .chess
+	url = https://github.com/DuarteDvv/.chess
